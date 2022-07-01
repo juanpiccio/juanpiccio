@@ -1,4 +1,4 @@
-Hi! Thanks for stopping by.
+Hi there! Thanks for stopping by!
 
 I am an Industrial Engineer with a Masters in Data Science from the Barcelona School of Economics, and 8 years experience in technical sales and data analytics within the Chemicals and O&G industry.
 
