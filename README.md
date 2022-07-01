@@ -1,6 +1,6 @@
 Hi there! Thanks for stopping by!
 
-I am an Industrial Engineer with a Masters in Data Science from the Barcelona School of Economics, and 8 years experience in technical sales and data analytics within the Chemicals and O&G industry.
+About me: I am an Industrial Engineer with a Masters in Data Science from the Barcelona School of Economics, and 8 years experience in technical sales and data analytics within the Chemicals and O&G industry.
 
 Want to check out some of my projects? How about these ones?
 
